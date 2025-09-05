@@ -20,16 +20,6 @@ I am a B.Tech Computer Science (Data Science) student at **Dayananda Sagar Unive
 
 ---
 
-### 🚀 Key Projects
-
-> **Note:** Replace these examples with your actual projects. Provide a short, impactful description for each.
-
--   **[ADD PROJECT 1 TITLE HERE]** – [A brief, one-sentence description of the project. Mention the key problem you solved and the technologies used, e.g., "A predictive model using Scikit-learn to forecast sales trends with 95% accuracy."]
--   **[ADD PROJECT 2 TITLE HERE]** – [e.g., "An interactive data visualization dashboard built with Power BI and Python to analyze customer behavior patterns."]
--   **[ADD PROJECT 3 TITLE HERE]** – [e.g., "An end-to-end data analysis project exploring public health data, featuring data cleaning with Pandas and visualizations with Seaborn."]
-
----
-
 ### 🛠️ Skills & Tools
 
 #### 💻 Programming Languages
@@ -87,6 +77,6 @@ Let’s connect and build something impactful together!
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Chinmay's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChinmayKrkamkar12&show_icons=true&theme=radical" alt="Chinmay's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKarkamkar12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
