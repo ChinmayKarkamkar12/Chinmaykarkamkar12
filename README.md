@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0FpkVekDn1N2avnjpKb5rf&ust=1757140468479000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDSk8CAwY8DFQAAAAAdAAAAABAE" width="200"/>
+  <img src="eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcwNTQ0MTYsIm5iZiI6MTc1NzA1NDExNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA1VDA2MzUxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2MzhjYjc1M2NlNGY2N2Y4MDUwZTI5NWM0ODQ4NjMwZTQwMzFlZjBkMzFiYTE0MzNlMDY2NzZkYzY4MjYzNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0" width="200"/>
   <h1>Hi, I'm Chinmay Karkamkar 👋</h1>
 </div>
 
