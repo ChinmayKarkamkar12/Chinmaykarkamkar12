@@ -65,4 +65,18 @@ I am a B.Tech Computer Science (Data Science) student at **Dayananda Sagar Unive
 ### 📬 How to Reach Me
 
 <p align="center">
-  <a href="
+  <a href="https://www.linkedin.com/in/chinmay-karkamkar-a109b72b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+Let’s connect and build something impactful together!
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChinmayKarkamkar12&show_icons=true&theme=radical" alt="Chinmay's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKarkamkar12&layout=compact&theme=radical" alt="Top Languages" />
+</p>
