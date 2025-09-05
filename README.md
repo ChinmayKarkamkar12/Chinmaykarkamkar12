@@ -1,22 +1,30 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/LmN8EsOoqQo9b6E9b0/giphy.gif" width="150"/> 
+
+<h1>Hi there, I'm Chinmay Karkamkar 👋</h1>
 </div>
 
-### Hi there, I'm Chinmay Karkamkar 👋
+## 🚀 Data Science Engineer | AI & Machine Learning Enthusiast | Generative AI Explorer
 
-## Data Science Engineer | AI & Machine Learning Enthusiast | Gen AI Explorer
-
-I'm a passionate Computer Science (Data Science) student at Dayanand Sagar University, Bengaluru. My goal is to leverage data to solve real-world problems and explore the fascinating frontiers of Artificial Intelligence.
+I'm a passionate Computer Science (Data Science) student at Dayanand Sagar University(CGPA:8.51), Bengaluru, driven by the desire to uncover insights from data and build intelligent systems. My journey is focused on exploring the depths of AI and ML to solve complex, real-world challenges.
 
 ---
 
 ### 🔭 About Me
 
--   🌱 I’m always passionate about learning new things, with a deep interest in the entire **Data Science** and **Machine Learning** ecosystem.
--   💡 My fascination with **LLMs** and **Generative AI** stems from their vast potential and the endless learning opportunities they present.
--   🚀 I'm currently honing my skills in **data analytics** and building robust **machine learning models**.
--   👯 I’m looking to **collaborate** on open-source data science projects and connect with fellow enthusiasts.
--   🎯 My long-term goal is to grow into a **Data Scientist**, tackling challenging problems and making a data-driven impact.
+-   🌱 My unyielding curiosity constantly drives me to learn and master new concepts within the **Data Science**, **Machine Learning**, and **Deep Learning** domains.
+-   💡 I'm particularly captivated by the transformative potential of **Large Language Models (LLMs)** and **Generative AI**, recognizing them as the next frontier in intelligent automation.
+-   📈 Currently, I'm deepening my expertise in **advanced data analytics techniques** and **developing robust machine learning models** from conception to deployment.
+-   🤝 I'm actively looking to **collaborate on impactful open-source data science projects** and connect with a vibrant community of data and AI/ML enthusiasts.
+-   🎯 My ultimate aspiration is to become a **leading Data Scientist**, translating raw data into strategic insights and innovative solutions.
+
+---
+
+### 🏆 Certifications
+
+-   **Google Data Analytics Professional Certificate** - Coursera
+-   **MySQL** - Scaler
+-   **Power BI** - IEEE
 
 ---
 
@@ -41,12 +49,17 @@ I'm a passionate Computer Science (Data Science) student at Dayanand Sagar Unive
 <p>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 #### Data Visualization
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
@@ -74,4 +87,4 @@ I'm a passionate Computer Science (Data Science) student at Dayanand Sagar Unive
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Chinmay's GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</
+</p>
