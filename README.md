@@ -1,10 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QhBhT2m4xQG7n274o8/giphy.gif" width="200"/>
-  <h1>Hi, I'm Chinmay Karkamkar 👋</h1>
-</div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gfk1S2k6YmJ2aL6a9A/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/5h3H28q8FBlEASo6L4/giphy.gif" width="200"/>
   <h1>Hi, I'm Chinmay Karkamkar 👋</h1>
 </div>
 
