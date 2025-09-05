@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l2JhI8dk6C4i6Sg3S/giphy.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/bd/33/08/bd330894a86f1611316a7f6f1f4405a8.gif" width="200"/>
   <h1>Hi, I'm Chinmay Karkamkar 👋</h1>
 </div>
 
