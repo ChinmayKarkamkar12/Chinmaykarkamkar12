@@ -14,12 +14,11 @@
 
 I'm a final-year **B.Tech CSE (Data Science)** student at **Dayananda Sagar University, Bengaluru** (CGPA: 8.51), building real-world AI systems that go beyond prototypes.
 
-Currently working as an **AI Engineer Intern at OutMate** — a B2B sales intelligence platform — where I ship NLP-based data enrichment pipelines, backend APIs (Node.js/Python), and frontend components (React/TypeScript) used in production.
+Previously an **AI Engineer Intern at OutMate** — where I designed and shipped 12 production AI features across a full-stack GTM platform: agentic tool-use loops, SSE streaming pipelines, RAG-based chatbots, LLM orchestration with topological scheduling, and real-time Redis pub-sub notifications.
 
-I'm interested in **agentic AI**, automation pipelines, and building tools that solve actual problems.
+I'm interested in **agentic AI**, multi-agent systems, and building automation that actually works in production.
 
 - 🔭 **Currently:** Multi-agent AI system for agricultural supply chain optimization (LangGraph, 6-agent architecture)
-- 🛠️ **Internship:** OutMate — NLP enrichment, API development, AI Co-pilot agent with tool-calling
 - 🌱 **Exploring:** LLM orchestration, RAG pipelines, self-hosted automation (n8n, Ollama)
 - 📍 **Location:** Bengaluru, India
 
@@ -29,44 +28,57 @@ I'm interested in **agentic AI**, automation pipelines, and building tools that 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### AI / ML
+### AI / ML / Agents
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6B4FBB?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Backend & Frontend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### AI Engineer Intern — OutMate *(2024 – Present)*
-> B2B sales intelligence platform
+### AI Engineer Intern — OutMate *(2024)*
+> AI-powered GTM assistant for sales teams — Next.js 14 · FastAPI · Celery · Redis · Supabase · Claude API · OpenRouter
 
-- Built NLP-based data enrichment features that process and classify company/contact data at scale
-- Developed backend REST APIs in Node.js and Python, integrated with LLM providers (Gemini, OpenRouter)
-- Built React/TypeScript frontend components for the platform's UI
-- Architected an AI Co-Pilot agent with tool-calling capabilities (navigate, filter, search) for client-side automation
+Designed and shipped **12 production AI features** end-to-end across the full stack:
+
+**🤖 Automation Agent** — Claude tool-use API agent with 20+ JSON schema tool definitions. Navigation and filter injection run client-side (zero backend latency). Built a Zustand `submitSignal` pattern for form auto-submit without prop-drilling, and a filter undo stack for state rollback.
+
+**🎯 Orchestrator** — LLM planner generates an `ExecutionPlan`; topological sort on `step.depends_on` resolves parallel groups; `asyncio.gather` executes groups concurrently; merger LLM synthesises all outputs. Full audit log persists plan, steps, credits, and duration per run.
+
+**💬 Global Chatbot (RAG)** — RAG over 51KB feature docs; route-aware with 19-route feature registry injected per request; two-stage intent detection (keyword pre-filter → LLM classifier at temp=0.0); `_validate_links()` post-processor strips hallucinated URLs.
+
+**⚡ Lead Copilot Panel** — 14 GTM AI actions (email drafting, objection handling, competitive battle cards, compliance audit, intent scoring). 2-stage SSE streaming with token batching (50ms flush) reduced React re-renders from ~700 to ~15. Redis cache keyed by `action:prospect_id:sha256(prompt)[:8]` for input-dependent cache isolation.
+
+**📧 Email Optimizer** — 5-source parallel enrichment via `asyncio.gather` (Serper, Tavily, Explorium, LinkedIn, YouTube) with 15s per-source timeout isolation. Outputs personalised email + Day 3/7/14 follow-up sequence + reply probability score.
+
+**🔔 Real-time Notifications** — Redis pub-sub → SSE; manual JWT validation on SSE endpoints (browser `EventSource` can't set auth headers); 25s heartbeat; `grouped_count` deduplication to prevent notification spam.
+
+**📅 Scheduling** — Celery Beat for timezone-aware Daily Brief (±2-min window, idempotent `get_or_generate()`); Meeting Prep auto-triggers at T-30 via Google Calendar webhooks + Redis dedup key (2hr TTL).
 
 ---
 
@@ -82,16 +94,15 @@ I'm interested in **agentic AI**, automation pipelines, and building tools that 
 ### 📈 Customer Lifetime Value Prediction
 > End-to-end ML pipeline with production-grade tooling
 
-- Built a CLV prediction model using Scikit-learn with full MLOps setup
-- Deployed with FastAPI + Docker, monitored using MLflow + Evidently AI
+- CLV prediction model with full MLOps setup — FastAPI + Docker, monitored via MLflow + Evidently AI
 - Interactive Streamlit dashboard for business users
 - [Repo →](https://github.com/ChinmayKarkamkar12/CLV-prediction)
 
 ### 🐦 Bird Audio Classification Pipeline
-> Dual-domain academic project — signal processing + transfer learning
+> Dual-domain academic research project
 
 - Noise-aware bird audio classification using BirdNET and IBC53 dataset
-- Produced two research papers (signal processing & transfer learning)
+- Produced two research papers (signal processing & transfer learning tracks)
 - Stack: Python 3.11, TensorFlow 2.18, birdnet-analyzer, 48kHz mono WAV
 
 ---
