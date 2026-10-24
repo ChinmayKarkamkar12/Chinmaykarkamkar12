@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Chinmay Karkamkar, AI Engineer">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#3ddc97" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3ddc97" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#58c4dc" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="60" y="86" width="0" height="40"><animate attributeName="width" from="0" to="160" begin="0.4s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="60" y="136" width="0" height="56"><animate attributeName="width" from="0" to="500" begin="1.2s" dur="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="60" y="210" width="0" height="40"><animate attributeName="width" from="0" to="240" begin="3.0s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="60" y="250" width="0" height="40"><animate attributeName="width" from="0" to="580" begin="4.0s" dur="1.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="#0b0f14"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#1f2933"/>
+
+  <!-- window dots -->
+  <circle cx="34" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="56" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="78" cy="34" r="6" fill="#27c93f"/>
+  <text x="600" y="39" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#6e7681">chinmay@dsu: ~</text>
+
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace">
+    <g clip-path="url(#c1)"><text x="60" y="116" font-size="26" fill="#3ddc97">$ whoami</text></g>
+    <g clip-path="url(#c2)"><text x="60" y="180" font-size="46" font-weight="700" fill="#e6edf3">Chinmay Karkamkar</text></g>
+    <g clip-path="url(#c3)"><text x="60" y="240" font-size="26" fill="#3ddc97">$ cat role.txt</text></g>
+    <g clip-path="url(#c4)"><text x="60" y="280" font-size="24" fill="#58c4dc">AI engineer. Agents, RAG, LLM security.</text></g>
+    <rect x="644" y="262" width="14" height="26" fill="#3ddc97">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="5.6s" repeatCount="indefinite"/>
+      <set attributeName="opacity" to="0" begin="0s" end="5.6s"/>
+    </rect>
+  </g>
+
+  <!-- shield with pulse -->
+  <g transform="translate(1030 175)">
+    <circle r="62" fill="none" stroke="#3ddc97" stroke-width="1.5">
+      <animate attributeName="r" values="52;96" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="62" fill="none" stroke="#3ddc97" stroke-width="1.5">
+      <animate attributeName="r" values="52;96" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M0 -50 L40 -34 V8 C40 32 20 46 0 54 C-20 46 -40 32 -40 8 V-34 Z" fill="#0f1a17" stroke="#3ddc97" stroke-width="3"/>
+    <path d="M-16 4 L-4 16 L18 -10" fill="none" stroke="#3ddc97" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
