@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Request flow through the gateway: allowed traffic passes, malicious traffic is blocked">
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#30363d"/></marker>
+  </defs>
+  <rect width="1000" height="280" rx="14" fill="#0b0f14"/>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="14" fill="none" stroke="#1f2933"/>
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+
+    <!-- lanes -->
+    <line x1="170" y1="105" x2="830" y2="105" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#arr)"/>
+    <line x1="170" y1="175" x2="420" y2="175" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"/>
+
+    <!-- client -->
+    <rect x="40" y="75" width="130" height="130" rx="12" fill="#11161d" stroke="#30363d"/>
+    <text x="105" y="135" text-anchor="middle" fill="#e6edf3">client</text>
+    <text x="105" y="157" text-anchor="middle" fill="#6e7681">app / agent</text>
+
+    <!-- gateway -->
+    <rect x="420" y="40" width="160" height="200" rx="14" fill="#0f1a17" stroke="#3ddc97" stroke-width="2"/>
+    <text x="500" y="66" text-anchor="middle" fill="#3ddc97" font-weight="700">GATEWAY</text>
+    <text x="500" y="205" text-anchor="middle" fill="#6e7681">inspect + filter</text>
+    <line x1="430" y1="100" x2="570" y2="100" stroke="#3ddc97" stroke-width="2" opacity="0.8">
+      <animate attributeName="y1" values="100;180;100" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="100;180;100" dur="3s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- llm -->
+    <rect x="830" y="75" width="130" height="130" rx="12" fill="#11161d" stroke="#30363d"/>
+    <text x="895" y="135" text-anchor="middle" fill="#e6edf3">LLM</text>
+    <text x="895" y="157" text-anchor="middle" fill="#6e7681">provider</text>
+
+    <!-- allowed packet -->
+    <circle r="8" fill="#3ddc97">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M180,105 L820,105" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/>
+    </circle>
+    <text fill="#3ddc97" font-size="13" text-anchor="middle" y="-16">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M180,105 L820,105" calcMode="linear"/>
+      allowed
+    </text>
+
+    <!-- blocked packet -->
+    <circle r="8" fill="#ff5f56">
+      <animateMotion dur="4s" begin="0.8s" repeatCount="indefinite" path="M180,175 L412,175" keyPoints="0;1;1" keyTimes="0;0.58;1" calcMode="linear"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.58;0.6;1" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text fill="#ff5f56" font-size="13" text-anchor="middle" y="28">
+      <animateMotion dur="4s" begin="0.8s" repeatCount="indefinite" path="M180,175 L412,175" keyPoints="0;1;1" keyTimes="0;0.58;1" calcMode="linear"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.58;0.6;1" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+      malicious
+    </text>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.56;0.6;0.8;1" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+      <text x="398" y="180" text-anchor="end" fill="#ff5f56" font-size="22" font-weight="700">✕ blocked</text>
+    </g>
+  </g>
+</svg>
