@@ -24,6 +24,7 @@ I'm building the **Self-Defending GenAI Gateway**, my final-year capstone. It's 
 ## Experience
 
 **AI Engineer Intern, OutMate** · Mar to Apr 2026
+
 B2B sales automation platform. I shipped 12 production AI features across the stack:
 
 - **Automation agent:** Claude tool-use loop with 20+ tool definitions, client-side navigation and filter injection
